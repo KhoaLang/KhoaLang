@@ -16,13 +16,13 @@
 
 ### Languages and Tools I'm using:
 
-<img align="left" src="./assets/vscode.png" alt="VSCODE" width="25px">
+<img align="left" src="./assets/vscode.png" alt="VSCODE" width="20px">
 <img align="left" alt="HTML5" width="29px" src="./assets/html5-logo-24.png" />
 <img align="left" alt="CSS3" width="29px" src="./assets/css3-logo-24.png" />
 <img align="left" alt="JavaScript" width="29px" src="./assets/javascript-logo-24.png" />
 <img align="left" alt="Sass" width="29px" src="./assets/sass-logo-24.png" />
 <img align="left" alt="ReactJS" width="29px" src="./assets/react-logo-24.png" />
-<img align="left" alt="Figma" width="23px" src="./assets/figma_logo.png" />
+<img align="left" alt="Figma" width="15px" src="./assets/figma_logo.png" />
 
 <br />
 <br />
