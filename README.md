@@ -17,13 +17,13 @@
 
 ### Languages and Tools:
 
-<img src="./assets/vscode.png" alt="VSCODE" width="26px">
-<img alt="HTML5" width="29px" src="./assets/html5-logo-24.png" />
-<img alt="CSS3" width="29px" src="./assets/css3-logo-24.png" />
-<img alt="JavaScript" width="29px" src="./assets/javascript-logo-24.png" />
-<img alt="Sass" width="29px" src="./assets/sass-logo-24.png" />
-<img alt="ReactJS" width="29px" src="./assets/react-logo-24.png" />
-<img alt="Figma" width="29px" src="./assets/figma-logo.png" />
+<img align="left" src="./assets/vscode.png" alt="VSCODE" width="26px">
+<img align="left" alt="HTML5" width="29px" src="./assets/html5-logo-24.png" />
+<img align="left" alt="CSS3" width="29px" src="./assets/css3-logo-24.png" />
+<img align="left" alt="JavaScript" width="29px" src="./assets/javascript-logo-24.png" />
+<img align="left" alt="Sass" width="29px" src="./assets/sass-logo-24.png" />
+<img align="left" alt="ReactJS" width="29px" src="./assets/react-logo-24.png" />
+<img align="left" alt="Figma" width="29px" src="./assets/figma_logo.png" />
 
 <br />
 <br />
