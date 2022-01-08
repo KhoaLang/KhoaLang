@@ -16,7 +16,7 @@
 
 ### Languages and Tools I'm using:
 
-<img align="left" src="./assets/vscode.png" alt="VSCODE" width="22px">
+<img align="left" src="./assets/vscode.png" alt="VSCODE" width="24px">
 <img align="left" alt="HTML5" width="29px" src="./assets/html5-logo-24.png" />
 <img align="left" alt="CSS3" width="29px" src="./assets/css3-logo-24.png" />
 <img align="left" alt="JavaScript" width="29px" src="./assets/javascript-logo-24.png" />
