@@ -3,7 +3,7 @@
 ## I'm a third year college student!
 
 - 🖥️ I'm curently working with ReactJS
-- 💯 2022 Goals: Improve my ReactJs skill as well as UI/UX design skill and find an intership
+- 💯 2022 Goals: Improve my ReactJs skill as well as UI/UX design skill and find an intership for front-end developer
 
 ### Contact me:
 
@@ -29,7 +29,7 @@
 
 ---
 
-[facebook]: https://www.facebook.com/dangkhoa.langhuynh/
+[facebook]: https://www.facebook.com/profile.php?id=100010304493276
 [twitter]: https://twitter.com/LangHuynhDangK2
-[instagram]: https://www.instagram.com/dangkhoalanghuynh/
+[instagram]: https://www.instagram.com/tkhoa882/
 [email]: tkhoa882@gmail.com
