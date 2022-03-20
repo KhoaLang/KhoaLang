@@ -1,6 +1,6 @@
 ### Hi, I'm KLaHD 👋
 
-## I'm a third year college student!
+## I'm a fourth year college student!
 
 - 🖥️ I'm curently working with ReactJS
 - 💯 2022 Goals: Improve my ReactJs skill as well as UI/UX design skill and find an intership for front-end developer
