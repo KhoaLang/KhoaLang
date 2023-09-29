@@ -22,21 +22,29 @@
 <img align="left" alt="NodeJS" width="29px" src="assets/icons8-nodejs-48.png" />
 <img align="left" alt="ReactJS" width="29px" src="assets/react-logo-24.png" />
 <img align="left" alt="NextJS" width="29px" src="assets/icons8-nextjs-48.png" />
+
 <br />
+
 #### Data processing (Batch/Streaming)
 
 <img align="left" alt="Python" width="29px" src="assets/icons8-python.gif" />
 <img align="left" alt="Apache Spark" width="29px" src="assets/apache_spark_logo_icon_170561.png" />
 <img align="left" alt="Apache Kafka" width="29px" src="assets/apache_kafka_logo_icon_167866.png" />
+
 <br />
+
 #### Infrastructure Deployment - Cloudformation
 
 <img align="left" alt="Cloudformation" width="29px" src="assets/copy.png" />
+
 <br />
+
 #### Cloud technologies
 
 <img align="left" alt="AWS" width="29px" src="assets/icons8-amazon-web-services-48.png" />
+
 <br />
+
 ## Data lake/Data warehouse
 
 <img align="left" alt="S3" width="29px" src="assets/aws-s3.svg" />
