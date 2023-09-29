@@ -17,13 +17,30 @@
 
 ### Technologies I'm using:
 
-<img align="left" src="./assets/vscode.png" alt="VSCODE" width="24px">
-<img align="left" alt="HTML5" width="29px" src="./assets/html5-logo-24.png" />
-<img align="left" alt="CSS3" width="29px" src="./assets/css3-logo-24.png" />
-<img align="left" alt="JavaScript" width="29px" src="./assets/javascript-logo-24.png" />
-<img align="left" alt="Sass" width="29px" src="./assets/sass-logo-24.png" />
-<img align="left" alt="ReactJS" width="29px" src="./assets/react-logo-24.png" />
-<img align="left" alt="Figma" width="19px" src="./assets/figma_logo.png" />
+## Web development
+
+<img align="left" alt="NodeJS" width="29px" src="assets/icons8-nodejs-48.png" />
+<img align="left" alt="ReactJS" width="29px" src="assets/react-logo-24.png" />
+<img align="left" alt="NextJS" width="29px" src="assets/icons8-nextjs-48.png" />
+
+## Data processing (Batch/Streaming)
+
+<img align="left" alt="Python" width="29px" src="assets/icons8-python.gif" />
+<img align="left" alt="Apache Spark" width="29px" src="assets/apache_spark_logo_icon_170561.png" />
+<img align="left" alt="Apache Kafka" width="29px" src="assets/apache_kafka_logo_icon_167866.png" />
+
+## Infrastructure Deployment - Cloudformation
+
+<img align="left" alt="Cloudformation" width="29px" src="assets/copy.png" />
+
+## Cloud technologies
+
+<img align="left" alt="AWS" width="29px" src="assets/icons8-amazon-web-services-48.png" />
+
+## Data lake/Data warehouse
+
+<img align="left" alt="S3" width="29px" src="assets/aws-s3.svg" />
+<img align="left" alt="Redshift" width="29px" src="assets/Amazon-Redshift.svg" />
 
 <br />
 <br />
