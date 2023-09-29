@@ -19,7 +19,7 @@
 
 #### Web development
 
-<img align="left" alt="NodeJS" width="35px" src="assets/icons8-nodejs-48.png" />
+<img align="left" alt="NodeJS" width="18px" src="assets/icons8-nodejs-48.png" />
 <img align="left" alt="ReactJS" width="35px" src="assets/react-logo-24.png" />
 <img align="left" alt="NextJS" width="35px" src="assets/next-js-seeklogo.com.svg" />
 
