@@ -1,9 +1,10 @@
-### Hi, I'm KLaHD 👋
+### Welcome, I'm KLaHD 👋
 
-## I'm a fourth year college student!
+## I'm a university senior!
 
-- 🖥️ I'm curently working with ReactJS
-- 💯 2022 Goals: Improve my ReactJs skill as well as UI/UX design skill and find an intership for front-end developer
+- 🖥️ Specialize in Web Development and Data Engineering!
+- 🎓 Graduate in 2023: University of Information Technology - Vietnam's National University of Ho Chi Minh City (VNUHCM)
+- 💯 2024 Goals: Learning new technology in the Web development field such as NextJS, Vector Database; Cloud technology like AWS and GPT model (Natural Language Processing) in AI field
 
 ### Contact me:
 
@@ -14,7 +15,7 @@
 
 <br />
 
-### Languages and Tools I'm using:
+### Technologies I'm using:
 
 <img align="left" src="./assets/vscode.png" alt="VSCODE" width="24px">
 <img align="left" alt="HTML5" width="29px" src="./assets/html5-logo-24.png" />
