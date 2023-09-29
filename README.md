@@ -28,9 +28,9 @@
 #### Data processing (Batch/Streaming)
 
 <img align="left" alt="Python" width="29px" src="assets/icons8-python.svg" />
-<img align="left" alt="Pandas" width="55px" src="assets/pandas.png" />
+<img align="left" alt="Pandas" width="85px" src="assets/pandas.png" />
 <img align="left" alt="Apache Spark" width="60px" src="assets/images.png" />
-<img align="left" alt="Apache Kafka" width="70px" src="assets/1_X-eza7p0qwKoZhCZEHYIhQ.png" />
+<img align="left" alt="Apache Kafka" width="80px" src="assets/1_X-eza7p0qwKoZhCZEHYIhQ.png" />
 
 <br />
 
