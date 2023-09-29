@@ -30,7 +30,7 @@
 <img align="left" alt="Python" width="29px" src="assets/icons8-python.svg" />
 <img align="left" alt="Pandas" src="assets/pandas.png" />
 <img align="left" alt="Apache Spark" width="40px" src="assets/images.png" />
-<img align="left" alt="Apache Kafka" width="40px" src="assets/1_X-eza7p0qwKoZhCZEHYIhQ.png.png" />
+<img align="left" alt="Apache Kafka" width="40px" src="assets/1_X-eza7p0qwKoZhCZEHYIhQ.png" />
 
 <br />
 
