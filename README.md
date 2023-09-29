@@ -55,14 +55,14 @@
 
 #### Data Orchestration
 
-<img align="left" alt="Airflow" src="assets/airflow.svg" />
-<img align="left" alt="AWS GLUE" src="assets/aws-glue.svg" />
+<img align="left" width="24px" alt="Airflow" src="assets/airflow.svg" />
+<img align="left" width="24px" alt="AWS GLUE" src="assets/aws-glue.svg" />
 
 <br />
 
 #### Cluster
 
-<img align="left" alt="AWS EMR" src="assets/EMR.svg" />
+<img align="left" width="24px" alt="AWS EMR" src="assets/EMR.svg" />
 
 <br />
 <br />
