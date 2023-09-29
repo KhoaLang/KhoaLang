@@ -49,7 +49,7 @@
 #### Data lake/Data warehouse
 
 <img align="left" alt="S3" width="29px" src="assets/aws-s3.svg" />
-<img align="left" alt="Redshift" src="assets/Amazon-Redshift.svg" />
+<img align="left" alt="Redshift" width="40px" src="assets/Amazon-Redshift.svg" />
 
 <br />
 
