@@ -34,39 +34,6 @@
 
 <br />
 
-#### Infrastructure Deployment - Cloudformation
-
-<img align="left" alt="Cloudformation" src="assets/copy.png" />
-
-<br />
-
-#### Cloud technologies
-
-<img align="left" alt="AWS" src="assets/icons8-aws-logo.svg" />
-
-<br />
-
-#### Data lake/Data warehouse
-
-<img align="left" alt="S3" width="29px" src="assets/aws-s3.svg" />
-<img align="left" alt="Redshift" width="180px" src="assets/Amazon-Redshift.svg" />
-
-<br />
-
-#### Data Orchestration
-
-<img align="left" width="24px" alt="Airflow" src="assets/airflow.svg" />
-<img align="left" width="24px" alt="AWS GLUE" src="assets/aws-glue.svg" />
-
-<br />
-
-#### Cluster
-
-<img align="left" width="24px" alt="AWS EMR" src="assets/EMR.svg" />
-
-<br />
-<br />
-
 ---
 
 [facebook]: https://www.facebook.com/profile.php?id=100010304493276
