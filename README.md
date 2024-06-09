@@ -2,7 +2,7 @@
 
 ## I'm a Data Engineer!
 
-<a href="https://github.com/KhoaLang/"><img align='right' src='./assets/svg/new/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'></a>
+<img href="https://github.com/KhoaLang/"><img align='right' src='./assets/svg/new/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
 
 - 🖥️ Specialize in Data Engineering and Web Development!
 - 🎓 Graduated: University of Information Technology - Vietnam's National University of Ho Chi Minh City (VNUHCM)
