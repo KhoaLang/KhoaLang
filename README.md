@@ -18,7 +18,7 @@
 
 <br />
 
-### Technologies I'm using:
+<h2 align='center'>Technologies I'm using:</h2>
 
 #### Languages
 
